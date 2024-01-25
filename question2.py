@@ -12,7 +12,7 @@ def question2_3():
     return answer 
 
 def question2_4():
-    answer = ['discrete',''qualitative','ordinal']
+    answer = ['discrete','qualitative','ordinal']
     return answer
 
 def question2_5():
