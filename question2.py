@@ -1,20 +1,20 @@
 def question2_1():
     # answer = ['string', 'string', 'string']
-    answer = ['discrete','quantitative','ratio']
+    answer = ['discrete','quantitative','']
     return answer
 
 def question2_2():
-    answer = ['continuous','quantitative','ratio']
+    answer = ['continuous','quantitative','']
     return answer
 
 def question2_3():
-    answer = ['discrete','qualitative','ordinal']
+    answer = ['discrete','qualitative','Assigned it as qualitative since there is only a fixed set of values that it can take and addition or subtraction does not make sense']
     return answer 
 
 def question2_4():
-    answer = ['discrete','qualitative','ordinal']
+    answer = ['discrete','qualitative','']
     return answer
 
 def question2_5():
-    answer = ['discrete','qualitative','nominal']
+    answer = ['discrete','qualitative','']
     return answer
