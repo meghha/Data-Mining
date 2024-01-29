@@ -1,10 +1,10 @@
 def question2_1():
     # answer = ['string', 'string', 'string']
-    answer = ['discrete','quantitative','']
+    answer = ['discrete','quantitative','No ambiguity']
     return answer
 
 def question2_2():
-    answer = ['continuous','quantitative','']
+    answer = ['continuous','quantitative','No ambiguity']
     return answer
 
 def question2_3():
@@ -12,9 +12,9 @@ def question2_3():
     return answer 
 
 def question2_4():
-    answer = ['discrete','qualitative','']
+    answer = ['discrete','qualitative','No ambiguity']
     return answer
 
 def question2_5():
-    answer = ['discrete','qualitative','']
+    answer = ['discrete','qualitative','No ambiguity']
     return answer
