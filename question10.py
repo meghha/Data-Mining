@@ -38,5 +38,5 @@ def question10_9():
     return answer
 
 def question10_10():
-    answer: False
+    answer= False
     return answer
