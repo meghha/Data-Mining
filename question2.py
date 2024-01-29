@@ -8,7 +8,7 @@ def question2_2():
     return answer
 
 def question2_3():
-    answer = ['discrete','qualitative','Assigned it as qualitative since there is only a fixed set of values that it can take and addition or subtraction does not make sense']
+    answer = ['discrete','quantitative','Quantitative since it differences make sense and there is a zero value']
     return answer 
 
 def question2_4():
