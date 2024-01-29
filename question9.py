@@ -10,7 +10,7 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'Correlation'
+    answer = 'correlation coefficient'
     return answer 
 
 def question9_4():
