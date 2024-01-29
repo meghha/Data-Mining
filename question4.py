@@ -20,7 +20,7 @@ def question4_5():
     return answer
 
 def question4_6():
-    answer = ['ratio','nominal']
+    answer = ['ratio','ordinal']
     return answer
 
 def question4_7():
