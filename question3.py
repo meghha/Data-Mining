@@ -20,7 +20,7 @@ def question3_5():
     return answer
 
 def question3_6():
-    answer = ['continuous','quantitative','ratio']
+    answer = ['continuous','qualitative','ordinal']
     return answer
 
 def question3_7():
