@@ -1,20 +1,20 @@
 def question2_1():
     # answer = ['string', 'string', 'string']
-    answer = ['discrete','quantitative','No ambiguity']
+    answer = ['discrete','quantitative','ratio']
     return answer
 
 def question2_2():
-    answer = ['continuous','quantitative','No ambiguity']
+    answer = ['continuous','quantitative','ratio']
     return answer
 
 def question2_3():
-    answer = ['discrete','quantitative','Quantitative since it differences make sense and there is a zero value']
+    answer = ['discrete','quantitative','ratio']
     return answer 
 
 def question2_4():
-    answer = ['discrete','qualitative','No ambiguity']
+    answer = ['discrete','qualitative','ordinal']
     return answer
 
 def question2_5():
-    answer = ['discrete','qualitative','No ambiguity']
+    answer = ['discrete','qualitative','nominal']
     return answer
