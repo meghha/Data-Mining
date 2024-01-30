@@ -8,7 +8,7 @@ def question2_2():
     return answer
 
 def question2_3():
-    answer = ['continuous','quantitative','ratio']
+    answer = ['discrete','qualitative','ordinal']
     return answer 
 
 def question2_4():
