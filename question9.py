@@ -18,6 +18,6 @@ def question9_4():
     return answer 
 
 def question9_5():
-    answer = 'Euclidean'
+    answer = 'Cosine Similarity'
     return answer 
 
