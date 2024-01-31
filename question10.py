@@ -34,7 +34,7 @@ def question10_8():
     return answer
 
 def question10_9():
-    answer= True
+    answer= False
     return answer
 
 def question10_10():
