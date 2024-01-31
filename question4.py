@@ -4,7 +4,7 @@ def question4_1():
     return answer
 
 def question4_2():
-    answer = ['ordinal','ordinal']
+    answer = ['ratio','ordinal']
     return answer
 
 def question4_3():
